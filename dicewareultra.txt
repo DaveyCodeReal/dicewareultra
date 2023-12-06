@@ -15,10 +15,20 @@ lumber
 nomad
 kenner
 lunar
+gaga
+migos
+pringles
+auto
+smallville
+horde
+jamming
+hackey
+doctor
 rations
 lunch
 luxury
 quinoa
+metallica
 robes
 lyrics
 machine
@@ -1707,6 +1717,7 @@ skull
 slab
 slam
 sleep
+crews
 micronutrient
 blackbird
 slender
@@ -1730,6 +1741,14 @@ smile
 smoke
 electrify
 smooth
+doctors
+rusted
+upside
+spins
+quirky
+tuneless
+curious
+crew
 snack
 snake
 snap
@@ -1764,6 +1783,8 @@ soon
 sorry
 spoons
 meatball
+electronic
+wayne
 sort
 soul
 sound
@@ -1822,6 +1843,7 @@ spies
 shaving
 spine
 employable
+maroon
 stoop
 clients
 implosion
@@ -1845,6 +1867,7 @@ state
 stay
 steak
 steel
+adele
 stem
 step
 enriching
@@ -1867,6 +1890,7 @@ strong
 struggle
 student
 stuff
+fleetwood
 mileage
 stumble
 christmas
@@ -1895,6 +1919,7 @@ clara
 incessant
 size
 skate
+modify
 sketch
 incipient
 incise
@@ -1914,6 +1939,13 @@ junk
 wishing
 junky
 decide
+cleopatra
+ended
+baleful
+spat
+brute
+cliff
+victorian
 steak
 spuds
 nuceria
@@ -1944,6 +1976,7 @@ sure
 surface
 stringy
 surge
+jovi
 surprise
 surround
 survey
@@ -1973,8 +2006,10 @@ tracy
 forever
 hours
 minutes
+coldplay
 remembering
 fatherhood
+stewart
 torn
 lifted
 shaves
@@ -2011,6 +2046,7 @@ sanguinius
 toffee
 yappy
 spartan
+shania
 sword
 upstairs
 convenience
@@ -2128,6 +2164,7 @@ display
 distance
 derive
 describe
+twain
 desert
 honeme 
 also
@@ -2158,6 +2195,7 @@ scanner
 ticket
 tide
 tiger
+nicki
 western
 tilt
 timber
@@ -2248,6 +2286,7 @@ secrets
 toss
 total
 tourist
+linkin
 toward
 printer
 tower
@@ -2383,6 +2422,7 @@ vitamin
 unable
 magma
 unaware
+roses
 uncle
 uncover
 under
@@ -2437,6 +2477,7 @@ prints
 cliff
 denmark
 climb
+rose
 souta
 itsuki
 clown
@@ -2479,6 +2520,12 @@ doctor
 chestnut
 document
 nascent
+opal
+condo
+buttery
+flake
+lakes
+overkill
 nebulous
 proceed
 affirm
