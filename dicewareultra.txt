@@ -62,7 +62,6 @@ foreskin
 tissue
 peel
 fish
-lumber
 oak
 maple
 hickory
@@ -74,7 +73,7 @@ softwood
 lignin
 birch
 mahogany
-forest
+forests
 beech
 timber
 furniture
@@ -238,18 +237,15 @@ yogurt
 mouse
 egypt
 poker
-parents
 skiing
 baby
 bank
-couple
 coffee
 space
 fishing
 music
 energy
 forest
-psychology
 dull
 blunt
 dead
@@ -375,7 +371,6 @@ meadow
 mean
 measure
 meat
-mechanic
 medal
 media
 melody
@@ -1100,7 +1095,6 @@ irons
 barrage
 barren
 benign
-original
 bequest
 berate
 bereft
@@ -1311,14 +1305,12 @@ alter
 always
 amateur
 retro
-century
 sign
 waggon
 secondhand
 prowl
 citroen
 demolition
-mechanic
 ferdinand
 flemish
 carpool
@@ -1484,7 +1476,6 @@ printed
 know
 remember
 mentioned
-quote
 coerce
 coeval
 pickle
@@ -1655,13 +1646,12 @@ food
 tarry
 loiter
 linger
-lounge
 lurk
 lollygag
 footle
 lallygag
 baking
-lounge
+lounger
 breadstuff
 yeast
 bunt
@@ -1755,7 +1745,6 @@ life-time
 time of life
 period
 eternity
-century
 career
 longevity
 lifelong
@@ -2042,7 +2031,6 @@ passionate
 motivation
 sadness
 anger
-psychology
 excited
 aroused
 emotive
@@ -2171,7 +2159,6 @@ gluten
 chicken
 soba
 tofu
-cereal
 rice
 flatbread
 spaghetti
@@ -2234,7 +2221,6 @@ quit
 quiz
 humming
 swimming
-quote
 rabbit
 soulcutter
 raccoon
@@ -2335,7 +2321,6 @@ running
 michigan
 indiana
 baltimore
-focus
 midwest
 advantage
 center
@@ -2434,7 +2419,6 @@ workers
 works
 riot
 ripple
-risk
 ritual
 rival
 river
@@ -3950,7 +3934,6 @@ levity
 libertine
 printing
 lionize
-lumber
 luminary
 tube
 miller
@@ -4201,7 +4184,6 @@ belarus
 obtain
 wonderful
 obtrusive
-cereal
 certain
 audi
 experiences
@@ -4502,7 +4484,6 @@ term
 ramble
 dabble
 gamble
-focus
 regress
 ills
 wanting
@@ -4732,7 +4713,6 @@ require
 rescue
 vernacular
 approach
-original
 archetype
 characteristic
 title
@@ -4865,7 +4845,6 @@ quibble
 quiescent
 quixotic
 italy
-quote
 quiz
 quite
 london
@@ -4973,7 +4952,6 @@ ensure
 remix
 distinction
 robotics
-parents
 darius
 harbin
 crowded
@@ -5595,7 +5573,6 @@ cherish
 amorousness
 lovingness
 heartstrings
-couple
 benevolence
 boat
 body
@@ -6167,7 +6144,6 @@ foot
 reasons
 extremities
 force
-forest
 oneself
 collateral
 priority
@@ -6636,7 +6612,6 @@ chance
 intention
 intent
 shot
-risk
 seeking
 fight
 grope
