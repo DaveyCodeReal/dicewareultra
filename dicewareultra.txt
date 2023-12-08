@@ -12,7 +12,6 @@ curant
 placor
 teach
 team
-tell
 turpitude
 joking
 tennis
@@ -35,7 +34,6 @@ swiss
 term
 test
 sacrarium
-text
 heartwood
 cedar
 zebrawood
@@ -91,7 +89,6 @@ ironwood
 logwood
 rosewood
 fruitwood
-leaf
 wooden
 walnut
 xylem
@@ -110,7 +107,6 @@ prepuce
 integumentary
 cutis
 pelt
-bone
 furred
 muscle
 derma
@@ -214,10 +210,8 @@ drool
 grill
 should
 bryant
-hunt
 locked
 lesser
-winter
 weather
 wedding
 wind
@@ -225,21 +219,17 @@ warrior
 witchcraft
 wine
 work
-youth
 yoga
-yellow
-young
 yarn
 youtube
 yachts
-yogurt
 mouse
 egypt
 poker
 skiing
 baby
 bank
-coffee
+coffees
 space
 fishing
 music
@@ -250,12 +240,10 @@ blunt
 dead
 benumb
 insensible
-afraid
 insensitive
 groggy
 dazed
 nauseous
-woozy
 human
 crowing
 three
@@ -388,7 +376,6 @@ campbell
 merge
 merit
 caring
-becoming
 innocent
 convinced
 childhood
@@ -456,7 +443,6 @@ driving
 ethanol
 carplane
 floorboard
-chattel
 saleroom
 salesroom
 jalopy
@@ -472,7 +458,6 @@ fanbelt
 loaded
 mixed
 caliban
-american
 mixture
 priori
 picnic
@@ -570,7 +555,6 @@ cooper
 fella
 hardtop
 headlight
-cadillac
 alternator
 handcar
 loaner
@@ -630,7 +614,6 @@ dirigible
 rider
 reverse
 racer
-window
 prang
 booted
 cowl
@@ -638,13 +621,11 @@ cowling
 cowls
 bonnet
 higher
-tunnel
 grille
 tourer
 lowered
 third
 first
-wing
 electric
 convertible
 compact
@@ -712,7 +693,6 @@ sunroof
 movable
 tender
 heap
-coach
 buffer
 traction
 waggon
@@ -818,7 +798,6 @@ north
 scars
 nose
 notable
-cola
 america
 note
 interglossa
@@ -842,7 +821,6 @@ shinigami
 ayaka
 local
 lock
-logic
 list
 little
 waterway
@@ -878,7 +856,6 @@ lasalle
 pontiac
 powertrain
 brake
-concept
 locomotive
 vehicularly
 across
@@ -908,7 +885,6 @@ epsilon
 ambrosial
 wasteland
 temp
-alice
 lonely
 waiting
 explosion
@@ -1030,7 +1006,6 @@ once
 robbie
 legend
 leisure
-lemon
 lend
 olive
 olympic
@@ -1049,8 +1024,6 @@ swooning
 diabetic
 harmful
 hallucinating
-gouty
-giddy
 funny
 afflicted
 delirious
@@ -1079,7 +1052,6 @@ augury
 august
 austere
 bristol
-auxiliary
 demands
 aversion
 baleful
@@ -1115,7 +1087,6 @@ exploded
 factory
 carrying
 subframe
-brazil
 carmaker
 crashed
 drives
@@ -1127,7 +1098,6 @@ orchard
 order
 ordinary
 organ
-bewilder
 airport
 aisle
 straits
@@ -1263,13 +1233,10 @@ scalps
 sakura
 canvass
 mega
-castigate
 alley
 poorly
-badly
 sickly
 stricken
-upset
 ailment
 unwell
 nauseous
@@ -1289,13 +1256,10 @@ inauspicious
 malaria
 worse
 allow
-almost
 alone
 switzerland
 alpha
 already
-also
-alter
 always
 amateur
 retro
@@ -1321,15 +1285,12 @@ amazing
 among
 saab
 amount
-amused
 morris
-volvo
 analyst
 preferential
 confuse
 exhaust
 rotten
-antibiotics
 surgery
 menstruating
 physician
@@ -1348,7 +1309,6 @@ immune
 diabetes
 mellitus
 victory
-water
 warn
 defenseless
 delay
@@ -1390,7 +1350,6 @@ limo
 trunk
 hood
 runabout
-honda
 landrover
 wheeler
 pepper
@@ -1412,7 +1371,6 @@ papaya
 arch
 arched
 pitcher
-pastry
 arching
 hacktivist
 motoring
@@ -1433,13 +1391,13 @@ miley
 meathead
 cheesehead
 lapped
-coddle
+coddles
 interpret
 seeing
 understand
 take
 construe
-call
+callum
 show
 study
 speak
@@ -1455,7 +1413,6 @@ reader
 reread
 decipher
 misinterpret
-write
 tell
 writing
 listen
@@ -1532,7 +1489,6 @@ cognizant
 cohort
 colander
 scale
-collusion
 commuter
 conceal
 ride
@@ -1581,7 +1537,6 @@ historicism
 condense
 conduce
 condone
-congeal
 mentions
 conjoin
 console
@@ -1601,6 +1556,7 @@ constrain
 pigeon
 pill
 fiction
+barbecuer
 jammed
 sulked
 loaf
@@ -1639,7 +1595,6 @@ lurk
 lollygag
 footle
 lallygag
-baking
 lounger
 breadstuff
 yeast
@@ -1743,7 +1698,6 @@ career
 longevity
 lifelong
 decade
-year
 yearly
 recorders
 years
@@ -1754,10 +1708,8 @@ dying
 demise
 accessories
 archeology
-autumn
 australia
 alcohol
-animals
 aviation
 aboriginal
 astronomy
@@ -1840,7 +1792,6 @@ precise
 right
 rectify
 compensate
-change
 redress
 straight
 appropriate
@@ -1849,9 +1800,7 @@ actual
 settings
 correctness
 rightness
-tune
 modulate
-zero
 time
 alter
 true
@@ -1866,7 +1815,7 @@ deflagration
 driver
 motorist
 driveway
-fuel
+fuels
 freeway
 hubcap
 pickup
@@ -1884,7 +1833,6 @@ subway
 bicycles
 transportation
 cabriolet
-volkswagen
 carburettor
 carless
 tunes
@@ -1951,7 +1899,6 @@ rudolf
 pistonless
 minibike
 sentra
-chevvy
 miata
 hotrod
 tercel
@@ -1988,7 +1935,6 @@ covetous
 cravat
 community
 tram
-walk
 propulsion
 obesity
 copenhagen
@@ -2011,7 +1957,6 @@ dearth
 embody
 appreciate
 rejoice
-wish
 aspire
 respecting
 overemotional
@@ -2141,16 +2086,12 @@ dough
 sandwich
 sushi
 dumpling
-bean
 noggin
 attic
 dome
-casserole
 soup
 gluten
-chicken
 soba
-tofu
 rice
 flatbread
 spaghetti
@@ -2213,7 +2154,6 @@ auburn
 diatribe
 didactic
 arabic
-chinese
 dilate
 disallow
 discern
@@ -2230,7 +2170,6 @@ quarter
 question
 quick
 quit
-quiz
 humming
 swimming
 rabbit
@@ -2310,7 +2249,6 @@ receive
 recipe
 dice 
 stonecutter
-siege
 minato
 haruki
 java
@@ -2319,7 +2257,6 @@ recycle
 reduce
 events
 using
-companies
 reflect
 chicago
 reform
@@ -2334,7 +2271,6 @@ indiana
 baltimore
 midwest
 advantage
-center
 scientifically
 corax
 region
@@ -2372,7 +2308,6 @@ elegance
 rhetoric
 classic
 signature
-trend
 stylus
 mode
 dash
@@ -2390,7 +2325,6 @@ elegant
 distinctive
 contemporary
 minimalist
-typical
 hairstyle
 delivery
 botany
@@ -2405,12 +2339,10 @@ arrive
 arrow
 arts
 artefact
-workplace
 artist
 docker
 jezik
 ridge
-shift
 rifle
 clash
 balance
@@ -2681,7 +2613,6 @@ cream
 birdhouse
 credit
 creek
-crew
 flightless
 cricket
 crime
@@ -2770,7 +2701,6 @@ matthias
 slew
 widestripe
 reef
-curious
 current
 reclamation
 hearsay
@@ -2858,7 +2788,7 @@ crater
 williams
 elektra
 johnston
-crawl
+crawling
 glimmer
 gossamer
 parakeet
@@ -2933,7 +2863,6 @@ flick
 flex
 yelled
 wellness
-welcome
 search
 season
 seat
@@ -3014,7 +2943,6 @@ shuffle
 wells
 ignoble
 charisma
-confirm
 similarly
 illicit
 imminent
@@ -3079,7 +3007,6 @@ known
 nearest
 newest
 darkness
-checked
 powered
 planned
 showed
@@ -3119,7 +3046,6 @@ nitrogen
 economy
 diagnostics
 nanotube
-stem
 classy
 justified
 damin
@@ -3129,7 +3055,6 @@ impetuous
 impiety
 cook
 cool
-copper
 pinpointing
 copy
 coral
@@ -3164,7 +3089,6 @@ poetic
 idiosyncratic
 transcendental
 course
-cousin
 prepares
 claimed
 banquets
@@ -3174,7 +3098,6 @@ lithomania
 cover
 coyote
 tsarmina
-crack
 heron
 mouser
 cradle
@@ -3263,7 +3186,6 @@ meatball
 electronic
 wayne
 sort
-soul
 sound
 soup
 shaved
@@ -3274,7 +3196,6 @@ spare
 storybook
 spatial
 spawn
-speak
 mayonnaise
 special
 nook
@@ -3466,10 +3387,8 @@ junky
 decide
 cleopatra
 ended
-baleful
 spat
 brute
-cliff
 victorian
 steak
 spuds
@@ -3497,7 +3416,6 @@ squid
 supreme
 longsword
 finch
-sure
 surface
 stringy
 surge
@@ -3629,7 +3547,6 @@ watchable
 vigil
 watchstanding
 clockmaker
-clock
 spectation
 demise
 denial
@@ -3658,7 +3575,6 @@ chronograph
 viewable
 caving
 barbados
-breakfast
 roth
 ultramarines
 pejorative
@@ -3680,7 +3596,7 @@ rearview
 father
 lowered
 backless
-career
+careers
 slump
 hoot
 sunday
@@ -3724,8 +3640,7 @@ twain
 desert
 honeme 
 also
-patently 
-attitude
+patently
 everafter
 ineffable
 haruna
@@ -3775,7 +3690,6 @@ medusa
 alvarez
 garth
 angron
-tomato
 syncopation
 reggae
 plastician
@@ -3791,7 +3705,6 @@ wonky
 parentage
 depict
 tonight
-tool
 westerns
 valentine
 tooth
@@ -3907,7 +3820,6 @@ traffic
 tragic
 easter
 lincos
-train
 transfer
 trap
 trash
@@ -3952,7 +3864,6 @@ luminary
 tube
 miller
 davis
-lions
 buckle
 tumble
 tuna
@@ -3976,7 +3887,6 @@ breakout
 collie
 vinegar
 twin
-twist
 two
 type
 typical
@@ -4096,7 +4006,6 @@ divert
 divide
 unionize
 dizzy
-simp
 doctor
 chestnut
 document
@@ -4150,11 +4059,10 @@ woks
 wasabi
 wafer
 unfold
-unhappy
 bangladesh
 uniform
 minsk
-unique
+uniquely
 unit
 scrubby
 universe
@@ -4168,7 +4076,6 @@ yogurt
 unveil
 storms
 stormy
-update
 upgrade
 uphold
 upon
@@ -4189,7 +4096,6 @@ oblivious
 watermelon
 okrand
 cutie
-waffle
 luxe
 mention
 bluebird
@@ -4198,8 +4104,6 @@ belarus
 obtain
 wonderful
 obtrusive
-certain
-audi
 experiences
 applet
 chair
@@ -4229,7 +4133,6 @@ used
 useful
 useless
 usual
-utility
 vacant
 volkswagen
 vacuum
@@ -4269,7 +4172,6 @@ self
 since
 confectionery
 saccharin
-caramel
 sweetmeat
 maraschino
 nonpareil
@@ -4299,7 +4201,6 @@ wanderer
 porsche
 sinatra
 chef
-cherry
 lippy
 chest
 chicken
@@ -4307,7 +4208,6 @@ spellbound
 fame
 bobby
 chief
-child
 chimney
 choice
 efficacy
@@ -4319,7 +4219,6 @@ kingdom
 kissing
 kisses
 choose
-chronic
 chuckle
 katy
 chunk
@@ -4348,6 +4247,7 @@ buprenorphine
 alice
 nape
 verb
+unbecoming
 verify
 version
 very
@@ -4358,7 +4258,6 @@ veteran
 viable
 vibrant
 vicious
-victory
 video
 interacting
 view
@@ -4366,19 +4265,16 @@ village
 vintage
 violin
 virtual
-benefit
 citizen
 city
 civil
-caseload
-claim
+caseloads
 kiwi
 sophie
 knee
 knife
 knock
 clap
-claims
 claiming
 clamp
 clamps
@@ -4431,7 +4327,6 @@ gates
 vote
 voyage
 wage
-wagon
 wait
 walk
 wall
@@ -4481,15 +4376,12 @@ julie
 dust
 hokies
 seattle
-york
-home
 tool
 equipment
 systems
 basketball
 dallas
 indianapolis
-corporate
 technique
 facto
 eggy
@@ -4500,13 +4392,9 @@ companies
 even
 done
 needs
-scope
 definition
 referring
 bullies
-consider
-ambiguous
-building
 reflect
 wondering
 term
@@ -4561,7 +4449,6 @@ diaz
 pointless
 towel
 blender
-basic
 radios
 torrent
 counsel
@@ -4597,7 +4484,6 @@ ketchup
 penitent
 cryptic
 almost
-branch
 devine
 moved
 zion
@@ -4637,7 +4523,6 @@ caution
 cave
 hungary
 ceiling
-celery
 cement
 census
 continuous
@@ -4651,12 +4536,10 @@ piquant
 pitfall
 pivotal
 placate
-wedding
 indian
 comcast
 weekend
 weird
-welcome
 west
 plaintive
 formerly
@@ -4703,7 +4586,6 @@ element
 elephant
 processes
 window
-wine
 wing
 wink
 winner
@@ -4717,7 +4599,6 @@ seperate
 barsoomian
 standard
 barbarus
-wisdom
 wise
 remember
 remind
@@ -4743,7 +4624,7 @@ rescue
 vernacular
 approach
 archetype
-characteristic
+characteristics
 title
 minimalism
 resemble
@@ -4771,11 +4652,9 @@ wool
 word
 consist
 consists
-work
 world
 worry
 worth
-wrap
 wreck
 downcurve
 iran
@@ -4783,16 +4662,15 @@ wrestle
 wrist
 write
 wrong
+morphe
 yard
 graying
-year
 yellow
 elevator
 instilled
 instead
 constantly 
 morph
-country
 elite
 else
 exculpatory
@@ -4961,7 +4839,6 @@ endless
 holland
 japan
 endorse
-avocado
 enemy
 energy
 enforce
@@ -5019,6 +4896,7 @@ reiterate
 czech
 relapse
 render
+barbecuers
 lexus
 renovate
 renowned
@@ -5027,7 +4905,7 @@ repine
 estonia
 bash
 reproach
-barbecue
+barbecues
 appetite
 carbon
 card
@@ -5067,7 +4945,6 @@ brownie
 industry
 mitsubishi
 infant
-broccoli
 inflict
 inform
 inhale
@@ -5209,7 +5086,6 @@ banquet
 severance
 shallow
 sheath
-chamber
 plates
 shrewd
 shrill
@@ -5276,7 +5152,6 @@ squander
 stanch
 steeply
 stickler
-cheddar
 stigma
 stingy
 cryptoscopy
@@ -5291,8 +5166,6 @@ lumpy
 persons
 bike
 bind
-biology
-bird
 cheddar
 jurisprudence
 lisp
@@ -5327,7 +5200,6 @@ pertaining
 extras
 schismatic
 eyes
-study
 maculary
 brevesce
 eyebrow
@@ -5349,7 +5221,6 @@ invest
 elect
 york
 flowing
-major
 luke
 publicly
 worthwile
@@ -5438,7 +5309,6 @@ sumptuous
 sundry
 supersede
 habit
-hair
 half
 hammer
 hamster
@@ -5460,7 +5330,6 @@ technological
 sycophant
 synopsis
 doubting
-cactus
 announcer
 introduced 
 taciturn
@@ -5492,7 +5361,6 @@ tawdry
 believe
 below
 casino
-bagel
 castle
 casual
 catty
@@ -5597,7 +5465,6 @@ liquidated
 blur
 blush
 board
-adore
 cherish
 amorousness
 lovingness
@@ -5635,12 +5502,10 @@ thirst
 neuroscience
 marriage
 psychology
-honey
 dote
 lovemaking
 ardor
 kindness
-compassion
 hate
 platonic
 devotion
@@ -5685,7 +5550,6 @@ fault
 favorite
 feature
 contendere
-chevrolet
 february
 boost
 border
@@ -5729,7 +5593,6 @@ guilt
 guitar
 temperate
 tenacity
-business
 busy
 butter
 connie
@@ -5758,7 +5621,6 @@ eventually
 resident
 finished
 cage
-cake
 call
 provinciarity
 calm
@@ -5781,14 +5643,12 @@ domingo
 torment
 torpid
 stultarium
-torque
 elsie
 spicer
 hashtag
 preferred
 fiber
 jaguar
-lion
 tiger
 panthera
 martinez
@@ -5798,7 +5658,6 @@ asia
 cougar
 lopez
 hernandez
-cheetah
 genus
 gorilla
 rainforest
@@ -5941,7 +5800,6 @@ beach
 bean
 beauty
 isolation
-because
 become
 beef
 flag
@@ -5957,7 +5815,6 @@ before
 korea
 begin
 behave
-behind
 turbid
 brush
 bubble
@@ -5987,7 +5844,6 @@ burden
 turgid
 africa
 turmoil
-turpitude
 defending
 turquoise
 ulterior
@@ -6057,7 +5913,6 @@ vanquish
 downturn
 variegate
 astounding
-balance
 float
 lemons
 downstat
@@ -6081,7 +5936,6 @@ glow
 glue
 goat
 goddess
-cooper
 getting
 raked
 ramos
@@ -6113,12 +5967,10 @@ pinpoint
 wrap
 industry
 technologies
-leading
 florida
 rebounding
 kansas
 makers
-chicago
 clemson
 tennessee
 manufacturers
@@ -6154,12 +6006,10 @@ façade
 front
 frontispiece
 visage
-brick
 walls
 stucco
 edifice
 portico
-arches
 cupola
 courtyard
 masonry
@@ -6248,7 +6098,6 @@ gaze
 tomatoes
 general
 genius
-beloved
 testing
 notable
 sleek
@@ -6272,7 +6121,6 @@ positively
 irrefutable
 confirming
 cocksure
-convinced
 prescribed
 incontrovertible
 positivist
@@ -6315,7 +6163,6 @@ thinking
 attitude
 attract
 auction
-audit
 saudi
 fugative
 getting
@@ -6323,15 +6170,12 @@ themselves
 positive
 growth
 arabia
-august
-aunt
 lemonade
 anthro
 assure
 belter
 bubbly
 author
-auto
 absolute
 absolutely
 autumn
@@ -6441,7 +6285,6 @@ undead
 depending
 garment
 caseload
-vengeance
 value
 adores
 adoring
@@ -6472,7 +6315,6 @@ kale
 flarecore
 axis
 necessity
-baby
 grammatical
 bachelor
 freakout
@@ -6517,7 +6359,6 @@ heartbreak
 playmate
 heartbreaker
 generic
-bruce
 shieldbreaker
 seraph
 procedure
@@ -6609,9 +6450,7 @@ thought
 ideas
 spasm
 difficulty
-crease
 cramp
-soul
 someone
 somebody
 person
@@ -6632,7 +6471,6 @@ seek
 attack
 struggle
 move
-chance
 intention
 intent
 shot
@@ -6667,8 +6505,6 @@ female
 grandmother
 momma
 mummy
-birth
-pregnant
 abbess
 sister
 yearn
