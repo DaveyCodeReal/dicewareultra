@@ -27,6 +27,15 @@ gorebyss
 relicanth
 luvdisc
 bagon
+dumbfounds
+interject
+heckle
+namedrop
+yammered
+naysay
+rephrase
+spatiotemporal
+cochlear
 shelgon
 salamence
 beldum
@@ -40,7 +49,6 @@ tattoo
 taxi
 whiten
 simulacrum
-sunburn
 pretenses
 physiological
 colourist
@@ -84,7 +92,6 @@ uncoloured
 melanise
 pinkify
 melanize
-umbreon
 murkrow
 slowking
 misdreavus
@@ -256,7 +263,6 @@ calibration
 subaction
 busyness
 jackknife
-flareon
 pragmatic
 badminton
 replay
@@ -275,6 +281,15 @@ nomad
 kenner
 lunar
 gaga
+midbrain
+acoumeter
+wiretap
+earphone
+earhole
+crossette
+fenestration
+intentionally
+await
 migos
 pringles
 auto
@@ -410,14 +425,12 @@ persuasion
 becolour
 chromakey
 grayscale
-variation
 colorimetric
 wavelengths
 southwestern
 campus
 southeast
 northwestern
-hockey
 harold
 lloyd
 buster
@@ -463,6 +476,11 @@ goner
 ragged
 bioscience
 techie
+deafness
+eardrop
+audiogram
+audiometry
+earmark
 cryogenics
 claims
 quickly
@@ -582,7 +600,6 @@ monogamousness
 marrying
 spousal
 weddingzilla
-beijing
 newsday
 wive
 intermarry
@@ -590,16 +607,14 @@ totem
 polyamory
 groomsman
 betroth
-structuralism
 weddingmoon
-illegitimate
 unmarried
 consent
 bangladesh
 mimikyu
 bruxish
 marble
-march
+marched
 tithes
 margin
 marine
@@ -694,16 +709,13 @@ clownery
 cutup
 dufus
 unintelligent
-lovelorn
 affectionately
 fondness
 lovesick
 beget
 granddaughter
-pause
 partygoing
 yuletide
-rested
 autograph
 whop
 shindig
@@ -720,7 +732,6 @@ unbirthday
 beano
 alteration
 convert
-modify
 modification
 variation
 mutation
@@ -743,14 +754,12 @@ togedemaru
 flux
 reduction
 affect
-nationalize
 revolutionize
 cohabit
 rabbits
 ravish
 buttoning
 destabilize
-transform
 rattata
 raticate
 spearow
@@ -815,7 +824,6 @@ undesirability
 uncomfortableness
 enshroud
 noncovered
-conceal
 dustpan
 cleanness
 thatch
@@ -854,7 +862,6 @@ wallcovering
 beslime
 bemask
 aluminize
-insurance
 indemnify
 spotless
 unsullied
@@ -887,13 +894,10 @@ sororate
 newlyweds
 unfaithfulness
 procreative
-platonic
 estrangement
 june
 july
-august
 september
-october
 december
 attributionn
 axew
@@ -909,12 +913,9 @@ mienfoo
 mienshao
 noncommercial
 covens
-specious
 bystander
 dawson
 appliance
-imperative
-liturgy
 pinkwash
 pied
 apologize
@@ -923,7 +924,6 @@ pooch
 rationalize
 ornament
 beautify
-embellish
 airports
 melody
 someday
@@ -931,10 +931,9 @@ oasises
 accompanist
 intonation
 ignatius
-antioch
 ecclesiastical
 protestant
-reformation
+reformations
 luther
 anglican
 husbandry
@@ -987,7 +986,6 @@ metropolis
 downtown
 residents
 stateless
-metropolitan
 yorkie
 outskirts
 province
@@ -1001,7 +999,6 @@ visigoth
 hairdressing
 sharealike
 copyrights
-copyright
 disclaimer
 disclaimers
 screwdriver
@@ -1095,9 +1092,7 @@ naganadel
 safari
 bingo
 ironic
-lightly
 complexion
-simulacrum
 frump
 herding
 mastiff
@@ -1116,21 +1111,16 @@ clothes
 yielder
 yestertime
 pinkwashing
-occurrent
 miscellaneous 	
 alphabetically
 debut
-released
 january
 februrary
 march
-april
 everloving
-infatuation
 wifely
 amorous
 underloved
-lovingness
 amorousness
 cyberlove
 unregistered 
@@ -1166,7 +1156,6 @@ nationalize
 dictate
 overhauls
 deviate
-tinker
 integrity
 magnitude
 chromosomal
@@ -1303,7 +1292,6 @@ houdini
 coogan
 minnelli
 blanchett
-parlour
 chesney
 marsalis
 sarandon
@@ -1315,7 +1303,6 @@ ruddock
 scorsese
 ostensible
 haircut
-distinctive
 colorpuncture
 amaranthine
 overtone
@@ -1539,9 +1526,7 @@ treeless
 unpeopled
 tattered
 rickety
-grubby
 raggedy
-scruffy
 myself
 acustom
 mystery
@@ -1676,11 +1661,9 @@ tremolo
 percussionist
 tenor
 clarion
-croon
 contralto
 virtuoso
 calypso
-chorus
 harmonizer
 seeger
 subtonic
@@ -1803,7 +1786,7 @@ white
 acid
 popsicle
 acoustic
-acquire
+acquired
 jesuit
 missions
 downhill
@@ -1818,7 +1801,6 @@ acts
 action
 actor
 actress
-adapt
 adds
 aggravate
 alacrity
@@ -1870,7 +1852,6 @@ fiona
 isabella
 amortize
 address
-adjust
 admit
 adult
 advance
@@ -1998,7 +1979,6 @@ ventriloquism
 derisive
 office
 often
-ascertain
 radical
 ascetic
 ascribe
@@ -2058,7 +2038,6 @@ boldore
 gigalith
 woobat
 capricious
-scoff
 blockhead
 exaltation
 unlaughingly
@@ -2220,7 +2199,6 @@ hoopa
 volcanion
 rowlet
 dartrix
-decidueye
 asinine
 laughingly
 nincompoop
@@ -2230,7 +2208,6 @@ gigglesome
 drollery
 ticklish
 horselaugh
-decidueye
 litten
 torracat
 incineroar
@@ -2250,13 +2227,10 @@ parsnip
 thailand
 stardew
 ceremonial
-denmark
 recognition
 ecuador
 solidarity
-decree
-reformation
-recognition
+decrees
 goldman
 blandness
 blatant
@@ -2312,7 +2286,6 @@ blowfish
 hagfish
 spines
 tokyo
-parade
 mentally
 defectiveness
 malice
@@ -2354,6 +2327,26 @@ ledyba
 ledian
 spinarak
 ariados
+audile
+behear
+otoneurologic
+heard
+earedness
+nonlistening
+posthearing
+relisten
+prelisten
+audient
+listenable
+auricle
+aural
+listenability
+inaudibly
+audibility
+unlistenable
+tympanum
+avast
+earshot
 crobat
 chinchou
 lanturn
@@ -2521,7 +2514,6 @@ economies
 hamlet
 volterra
 antioch
-manhattan
 pizzeria
 istanbul
 ontario
@@ -2540,7 +2532,6 @@ among
 saab
 amount
 analyst
-preferential
 confuse
 exhaust
 rotten
@@ -2744,7 +2735,6 @@ jetted
 fire
 train
 audit
-audition
 driller
 anagram
 exercise
@@ -2791,7 +2781,6 @@ concur
 stars
 pinpoints
 droopy
-tatsugiri
 annihilape
 clodsire
 farigiraf
@@ -2809,7 +2798,18 @@ logic
 possibility
 reason
 structuralism
-scientific theory
+scientific
+earwax
+earcap
+earmold
+thalamus
+auric
+earbone
+audition
+impedance
+euphobia
+earset
+blare
 conjecture
 theorem
 theoretical
@@ -2847,8 +2847,6 @@ hypothetical
 axioms
 theorists
 conception
-paradigm
-analysis
 thesis
 argument
 rationale
@@ -2861,8 +2859,8 @@ conjoin
 console
 answer
 antenna
+rugging
 antique
-nondescript
 callable
 undersign
 overcall
@@ -2915,6 +2913,21 @@ pawniard
 bisharp
 bouffalant
 rufflet
+croon
+emanate
+whistling
+chorused
+detention
+cornhusk
+corti
+encoding
+coenesthesis
+warranto
+exteroception
+conchectomy
+vocalise
+vocalize
+effuse
 braviary
 vullaby
 mandibuzz
@@ -2932,7 +2945,6 @@ nefariousness
 mosquito
 combining
 genetics
-mutation
 lyme
 ointment
 mannered
@@ -3270,7 +3282,6 @@ objurgate
 accuracy
 sorts
 letters
-possible
 post
 koharu
 tsumugi
@@ -3284,7 +3295,6 @@ ketchum
 vatican
 defamation
 gambling
-saudi
 materialism
 manhattan
 nintendo
@@ -3306,6 +3316,13 @@ chemicals
 praise
 predict
 star
+shrilling
+uttered
+murmuring
+glean
+droning
+quavered
+yelping
 prefer
 unish
 present
@@ -3329,12 +3346,8 @@ pushchair
 ragtop
 altima
 pride
-espouse
 lovelorn
-beloved
-unloved
 affiance
-fondly
 bewed
 hitch
 courter
@@ -3501,7 +3514,6 @@ pull
 pulp
 unscheduled
 pulse
-consent
 wages
 subjects
 called
@@ -3531,7 +3543,6 @@ dialga
 palkia
 heatran
 regigigas
-giratina
 giratina
 cresselia
 phione
@@ -3587,7 +3598,6 @@ edsel
 jesse
 surnames
 talmud
-nomenclature
 username
 designations
 reraise
@@ -3632,7 +3642,6 @@ doggone
 falco
 warming
 warmly
-necking
 hotly
 quick
 quit
@@ -3761,7 +3770,6 @@ unitarian
 universalist
 metropolitan
 denomination
-polygamy
 reduce
 events
 using
@@ -3823,7 +3831,6 @@ journalese
 reproductive 
 reminiscent
 distinctive
-contemporary
 minimalist
 hairstyle
 delivery
@@ -3916,7 +3923,6 @@ idealized
 gottfried
 medieval
 augustine
-debut
 crap
 teed
 manny
@@ -3982,7 +3988,6 @@ minogue
 streisand
 mcfly
 feature
-compilation
 gospel
 instrumental
 performed
@@ -3991,7 +3996,6 @@ compositions
 patsy
 custody
 variety
-brass
 performances
 ensemble
 musicianship
@@ -4099,7 +4103,6 @@ equivocal
 obliged
 retry
 advise
-invite
 retaliate
 overreact
 interfere
@@ -4109,7 +4112,6 @@ hesitation
 scruple
 vibrate
 oscillate
-reflect
 upheaval
 softening
 reformation
@@ -4117,16 +4119,13 @@ revise
 different
 reassessment
 rewrite
-drastic
 reconsider
 scare
 candacity
 scatter
 utopian
 boggle
-excuse
 lest
-ignore
 convincer
 letting
 unwilling
@@ -4229,12 +4228,10 @@ sanchez
 school
 clark
 harris
-squalid
 featureless
 mildewed
 begrimed
 drab
-rusted
 yellowed
 fetid
 cluttered
@@ -4289,14 +4286,12 @@ lamps
 castillo
 stud
 paraplegic
-rickety
 paralytic
 palsied
 synesthesia
 neuroimaging
 nasa
 iridescence
-curiosity
 photonic
 translucent
 interference
@@ -4333,7 +4328,6 @@ expanses
 facetious
 facile
 birdcage
-falter
 vocary
 punk
 flatware
@@ -4446,6 +4440,13 @@ maternifer
 flaunting
 fledged
 filarium
+tensor
+sensorineural
+lingual
+anechoic
+conduction
+grasshopper
+echolocation
 flinch
 florid
 fluster
@@ -4514,6 +4515,12 @@ fragrant
 emotional
 frantic
 frenetic
+medial 
+geniculate 
+nucleus
+earmuffs
+infrasound
+otoacoustic
 fringe
 depends
 shark
@@ -4614,7 +4621,6 @@ tatsugiri
 dreamy
 haughty
 pikipek
-jocular
 deride
 simpleton
 folly
@@ -4724,7 +4730,6 @@ catechism
 polycarp
 rabbi
 kirtan
-netherlands
 morbidity
 childfree
 manifesto
@@ -4780,7 +4785,6 @@ illicit
 imminent
 poser
 kingly
-immutable
 impair
 impassive
 impede
@@ -4909,7 +4913,6 @@ unifying
 distinct
 uncanny
 intrinsic
-idiosyncratic
 transcendental
 course
 claimed
@@ -5187,9 +5190,7 @@ incise
 deal
 debate
 debris
-december
 fran
-cohabit
 bullets
 france
 goalie
@@ -5256,7 +5257,6 @@ surface
 stringy
 surge
 jovi
-surprise
 surround
 survey
 suspect
@@ -5662,7 +5662,6 @@ confirm
 merryment
 congress
 connect
-consider
 control
 torte
 possession
@@ -5671,7 +5670,6 @@ lassitude
 latent
 rager
 laudatory
-lavish
 legacy
 levity
 libertine
@@ -5694,7 +5692,6 @@ festive
 armenia
 twelve
 twenty
-lloyd
 twice
 bertha
 vera
@@ -5871,7 +5868,6 @@ woks
 wasabi
 wafer
 unfold
-bangladesh
 uniform
 minsk
 uniquely
@@ -5996,7 +5992,6 @@ odious
 officious
 ominous
 onerous
-goofball
 ossify
 santa
 ostracism
@@ -6062,12 +6057,10 @@ personage
 kinsfolk
 marque
 toponym
-sanction
 agnomen
 traducement
 hypocorism
 calumniation
-namedrop
 anonym
 metronymic
 appellative
@@ -6081,7 +6074,6 @@ unbecoming
 verify
 version
 very
-emerald
 vessel
 atlantean
 veteran
@@ -6127,7 +6119,6 @@ dolphin
 domain
 chambers
 donate
-bulgaria
 donkey
 donor
 dream
@@ -6224,10 +6215,8 @@ term
 ramble
 dabble
 gamble
-regress
 ills
 wanting
-scientific
 phoenix
 record
 engineering
@@ -6243,7 +6232,6 @@ standing
 singular
 rawness
 embedding
-convert
 dimensional
 vectors
 represent
@@ -6729,7 +6717,6 @@ certainly
 include
 income
 breadfruit
-increase
 burrito
 index
 indicate
@@ -6826,7 +6813,6 @@ evolve
 example
 excess
 infinity
-exchange
 excite
 excuse
 forma
@@ -6853,7 +6839,6 @@ hundred
 hunt
 hurdle
 evidence
-hurry
 swedish
 hurt
 husband
@@ -6865,7 +6850,6 @@ expose
 serration
 servile
 prepare
-banquet
 severance
 sheath
 plates
@@ -6942,7 +6926,6 @@ persons
 bike
 bind
 cheddar
-jurisprudence
 lisp
 cauliflower
 cowboys
@@ -7224,7 +7207,6 @@ blur
 blush
 board
 cherish
-amorousness
 lovingness
 boat
 body
@@ -7257,7 +7239,6 @@ hunger
 thirst
 neuroscience
 psychology
-lovemaking
 ardor
 kindness
 hate
@@ -7314,7 +7295,6 @@ bottom
 bounce
 telltale
 temerity
-gown
 rhiannon
 saskia
 xochitl
@@ -7328,7 +7308,6 @@ chevy
 gravity
 great
 dissenting
-green
 grid
 grief
 grit
@@ -7411,7 +7390,6 @@ rainforest
 snow 
 leopard
 puma
-hyena
 ocelot
 rhinoceros
 infatuation
@@ -7437,7 +7415,6 @@ athletics
 vampirism
 inertness
 deactivate
-squirtle
 underaction
 perpetrate
 croquet
@@ -7492,9 +7469,7 @@ file
 loggers
 filing
 fling
-nepal
 sunsets
-sunlight
 namibia
 shasta
 filming
@@ -7531,7 +7506,6 @@ cookie
 cookies
 cornflakes
 african
-occurrence
 transient
 curds
 spikes
@@ -7687,7 +7661,6 @@ flush
 balcony
 ball
 banana
-gloom
 originated
 glory
 glove
@@ -7704,7 +7677,6 @@ standards
 good
 goose
 gorilla
-gospel
 gossip
 govern
 steer
@@ -7999,7 +7971,6 @@ tinker
 bracket
 brain
 iceberg
-satisfaction
 mortgage
 brand
 cthulhu 
@@ -8101,7 +8072,6 @@ cthonia
 poland
 fury
 warning
-harlequin
 recipes
 bronze
 broom
@@ -8120,7 +8090,6 @@ heartbreaker
 generic
 shieldbreaker
 seraph
-procedure
 jimmies
 future
 gadget
@@ -8143,7 +8112,6 @@ alternation
 sorcerize
 unchangeable
 necessarily
-particular
 habiliment
 surrounding
 stalemate
@@ -8199,7 +8167,6 @@ scyther
 electabuzz
 magmar
 pinsir
-chasten
 louden
 vesiculate
 everchanging
@@ -8275,7 +8242,6 @@ johnson
 rick
 wrick
 mortal
-deform
 britain
 thought
 ideas
@@ -8354,9 +8320,7 @@ sunkern
 sunflora
 yanma
 wooper
-paldean
 quagsire
-espeon
 phaesphoros
 sloppy
 stepmother
@@ -8388,7 +8352,6 @@ pantaloon
 deter
 bother
 resist
-refuse
 urges
 heed
 criticize
@@ -8495,7 +8458,6 @@ transaminate
 metamorphic
 gelatinize
 unsanctify
-desensitize
 colouration
 tincture
 cecil
@@ -8525,9 +8487,7 @@ largess
 occurrence
 happening
 slowing
-entail
 regenerate
-porygon
 omanyte
 omastar
 kabuto
@@ -8563,7 +8523,6 @@ loudred
 polyandry
 polygyny
 wedlock
-cohabitation
 sacrament
 alliance
 interfaith
@@ -8578,7 +8537,6 @@ mewtwo
 development
 impairment
 lessening
-acquire
 expiry
 nativity
 diversify
@@ -8646,7 +8604,6 @@ amour
 affectionate
 lovable
 fondly
-morpeko
 cufant
 copperajah
 dracozolt
@@ -8658,11 +8615,17 @@ dreepy
 drakloak
 dragapult
 zacian
-zamazenta
-zamazenta
 eternatus
 kubfu
 urshifu
+overhear
+eardrum
+earplug
+listener
+unheeded
+comprehend
+ascertain
+listenership
 loveless
 amatory
 endowment
