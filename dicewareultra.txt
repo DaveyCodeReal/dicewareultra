@@ -116,7 +116,6 @@ geneva
 gluon
 scarlet
 psychophysics
-amber
 blueness
 paleness
 tristimulus
@@ -476,7 +475,7 @@ southwestern
 campus
 southeast
 northwestern
-harold
+harolding
 lloyd
 buster
 keaton
@@ -496,6 +495,7 @@ empire
 cockney
 vicente
 hermosa
+numb
 urbane
 nonsolid
 dithered
@@ -583,6 +583,7 @@ eldegoss
 wooloo
 dubwool
 chewtle
+numbing
 drednaw
 yamper
 boltund
@@ -702,6 +703,7 @@ afterimage
 matter
 maximum
 maze
+thea
 piplup
 prinplup
 empoleon
@@ -830,6 +832,7 @@ reduction
 affect
 revolutionize
 cohabit
+bumble
 rabbits
 ravish
 destabilize
@@ -853,7 +856,6 @@ batgirl
 coquette
 countrywoman
 jazzwoman
-elizabeth
 leatherwoman
 clergywoman
 camgirl
@@ -885,8 +887,6 @@ armarouge
 ceruledge
 tadbulb
 roberts
-carter
-mitchell
 dripping
 menu
 campbell
@@ -1225,7 +1225,6 @@ aristocrat
 duchess
 herself
 menstrual
-whimsical
 priestess
 demagnetize
 naturalize
@@ -1382,7 +1381,6 @@ diocese
 revitalization
 mesoamerica
 nobleman
-actress
 matron
 hostess
 babe
@@ -1428,6 +1426,7 @@ knotted
 seamstresses
 flatten
 velour
+abroad
 handkerchief
 ironing
 twirled
@@ -1493,7 +1492,8 @@ amorous
 underloved
 amorousness
 cyberlove
-unregistered 
+unregistered
+acumen
 cohabitation
 bulgaria
 lovemap
@@ -1547,6 +1547,7 @@ satisfaction
 declare
 salami
 acclaimed
+hypercam
 accolade
 accretion
 accrue
@@ -1642,6 +1643,7 @@ irene
 christina
 woodswallow
 humphrey
+plugable
 terminology
 formic
 auks
@@ -1660,7 +1662,6 @@ courtesy
 garter
 margaret 
 thatcher
-genitive
 marion 
 fraser
 libras
@@ -1748,7 +1749,6 @@ ashley
 capricorn
 aquarius
 pisces
-julie
 splitsville
 celibates
 protestantism
@@ -1763,7 +1763,6 @@ motion
 grenade
 grandma
 polychromise
-blackwash
 cerulean
 yellowish
 ladies
@@ -1910,7 +1909,6 @@ narnia
 capote
 diaries
 midrash
-reuben
 capricorns
 sextile
 sagittarian
@@ -2127,7 +2125,7 @@ proclivity
 retroflex
 cleverness
 flopping
-edging
+edgings
 sunroof
 movable
 tender
@@ -2193,7 +2191,6 @@ repack
 exfoliate
 earplugs
 candlewick
-shelby
 jericho
 marley
 reuben
@@ -2311,7 +2308,7 @@ boilover
 outrush
 whupping
 headhunting
-courtyard
+courtyards
 dissociation
 dalton
 lorikeets
@@ -2824,7 +2821,9 @@ lecture
 left
 leggy
 toledo
+cavil
 unfezant
+eminent
 blitzle
 zebstrika
 roggenrola
@@ -2918,7 +2917,7 @@ timburr
 comedienne
 supermodel
 songstress
-barmaid
+barmaids
 august
 austere
 bristol
@@ -3150,7 +3149,6 @@ pimple
 hospitalized
 unworthiness
 heart
-eliza
 unkindness
 elderly
 died
@@ -3193,13 +3191,13 @@ beards
 livability
 agent
 agree
+hearty
 ahead
 turkeys
 aspersion
 assail
 poached
 womanlike
-dominatrix
 posthearing
 relisten
 prelisten
@@ -3234,6 +3232,7 @@ park
 parrot
 scruff
 latias
+betweenity
 latios
 kyogre
 groudon
@@ -3290,6 +3289,7 @@ cheerlead
 multisport
 heartgold
 soulsilver
+abjure
 epilepsy
 pause
 pave
@@ -3362,9 +3362,9 @@ worse
 allow
 daughters
 cybergirl
+coaches
 doorwoman
 vocative
-primipara
 weathergirl
 watchwoman
 alder
@@ -3376,7 +3376,6 @@ vindication
 whitewash
 domination
 walkover
-consolation
 dominance
 matchup
 qualifier
@@ -3386,7 +3385,6 @@ resurgent
 wipeout
 accomplishment
 tiebreaker
-outburst
 points
 edging
 shocker
@@ -3436,9 +3434,8 @@ paula
 skye
 estelle
 tiffany
-adele
 sylvie
-pearl
+pearls
 volterra
 antioch
 pizzeria
@@ -3476,7 +3473,6 @@ elliot
 angelica
 mallory
 kendra
-beatrice
 strangler
 dietary
 unsaturated
@@ -3487,7 +3483,6 @@ metabolite
 joyce
 nathan
 kyler
-resurrection
 botanical
 ornamental
 amazing
@@ -3622,7 +3617,7 @@ strength
 boldness
 resourcefulness
 poise
-april
+aprils
 papaya
 arch
 tampico
@@ -3712,7 +3707,7 @@ defeated
 halftime
 quarterfinal
 finishing
-finished
+refinished
 matchwinner
 bronzong
 bonsly
@@ -3766,7 +3761,7 @@ finale
 berth
 heroics
 resounding
-heartbreaker
+heartbreakers
 cartop
 utility
 another
@@ -3796,12 +3791,10 @@ winnable
 clinched
 prizewinner
 victories
-recompete
 overwin
 outcompete
 competingly
 noncompete
-defending
 train
 audit
 driller
@@ -3902,7 +3895,7 @@ supposition
 philosophical
 notion
 hypodermic
-garter
+garters
 pinking
 shears
 ovarian 
@@ -4244,7 +4237,7 @@ rivera
 baker
 paleozoic
 sliders
-scott
+scotts
 torres
 unimportance
 overvalue
@@ -4350,7 +4343,6 @@ scooter
 dealership
 minibus
 congestion
-simone
 halle
 nellie
 merely
@@ -4449,7 +4441,7 @@ exactly
 loretta
 natasha
 corinne
-flora
+floral
 shay
 clarissa
 unofficial
@@ -4511,6 +4503,7 @@ econobox
 dustcart
 pushchair
 ragtop
+florals
 altima
 pride
 lovelorn
@@ -4773,7 +4766,6 @@ rallied
 overcame
 gambler
 prevail
-rook
 jealousy
 determinacy
 gloat
@@ -5412,6 +5404,7 @@ engender
 engrave
 sevens
 engulf
+efete
 enigma
 rule
 markup
@@ -5675,6 +5668,7 @@ rodentia
 treeshrew
 bonobo
 diffraction
+eschews
 unhealthy
 greenies
 stussy
@@ -5893,7 +5887,7 @@ sienna
 zoey
 gainsay
 garble
-garner
+garners
 ducky
 loopy
 german
@@ -5910,7 +5904,6 @@ gigantic
 firestar
 freefall
 lesbian
-irene
 recurring
 flora
 flamebird
@@ -5970,7 +5963,6 @@ contour
 grovel
 gullible
 halcyon
-parker
 collins
 reyes
 hallow
@@ -6072,7 +6064,6 @@ trumpeter
 oriole
 spoonbill
 kingfisher
-clay
 troglodytes
 marmoset
 pongo
@@ -6140,6 +6131,7 @@ springfield
 armory
 highland
 hypocrisy
+elowen
 olympia
 yelling
 cradles
@@ -6158,11 +6150,10 @@ rhea
 birdcatcher
 polyandrous
 gainer
-opponent
+opponents
 pennant
 determine
 outsider
-profitable
 gainsome
 decision
 trounce
@@ -6224,7 +6215,6 @@ shock
 tsar
 batwoman
 binary
-batgirl
 shoe
 shoot
 shop
@@ -7072,7 +7062,6 @@ devote
 tuber
 diagram
 dial
-bruno
 tortilla
 tofu
 toasty
@@ -7563,6 +7552,8 @@ porsche
 chef
 lippy
 chest
+bumfodder
+tedious
 chicken
 spellbound
 fame
@@ -7580,7 +7571,6 @@ kisses
 jamie
 bruno
 jefferson
-morgan
 brock
 roger
 flynn
@@ -7733,7 +7723,6 @@ unbecoming
 verify
 version
 very
-vessel
 atlantean
 veteran
 viable
@@ -7772,7 +7761,6 @@ pariah
 parley
 partisan
 patron
-clinton
 doll
 dolphin
 domain
@@ -8028,7 +8016,7 @@ whale
 what
 wheat
 wheel
-grey
+greys
 when
 without
 descender
@@ -8342,6 +8330,7 @@ renovate
 renowned
 repast
 repine
+quibbles
 estonia
 bash
 reproach
@@ -8485,8 +8474,10 @@ sumatra
 extortion
 rayquaza
 jirachi
+loins
 deoxys
 turtwig
+breakdance
 grotle
 torterra
 chimchar
@@ -8613,9 +8604,11 @@ splice
 sponge
 hire
 history
+dialectal
 hobby
 hockey
 hold
+fodder
 hole
 holiday
 bagdad
@@ -8733,6 +8726,7 @@ elect
 york
 flowing
 publicly
+dialect
 worthwile
 inclined
 protrude
@@ -8957,8 +8951,10 @@ chives
 mexican
 blouse
 automatic
+gianna
 spirals
 purposes
+abide
 eliminate
 compiled
 blue
@@ -8970,6 +8966,7 @@ cherish
 lovingness
 boat
 body
+dialects
 boil
 bomb
 darkness
@@ -9062,7 +9059,6 @@ grain
 grant
 grape
 grass
-revenge
 chevy
 gravity
 great
@@ -9070,6 +9066,7 @@ dissenting
 grid
 grief
 grit
+abided
 grocery
 group
 grow
@@ -9125,7 +9122,7 @@ timorous
 topple
 researcher
 domingo
-torment
+torments
 torpid
 anticaking
 stultarium
@@ -9246,6 +9243,7 @@ opportunity
 firm
 firmly
 cranberry
+abides
 currants
 pidgins
 firms
@@ -9398,7 +9396,7 @@ valiant
 foam
 focus
 valorous
-vanquish
+vanquished
 downturn
 variegate
 astounding
@@ -9744,6 +9742,7 @@ bread
 breeze
 brick
 bridge
+faffle
 contacts
 brief
 deceleration
@@ -9753,7 +9752,6 @@ vesture
 rollover
 secularisation
 nationalisation
-satisfaction
 updating
 motility
 experience
